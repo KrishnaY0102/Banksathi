@@ -14,3 +14,8 @@ button{
     border-radius: 50%;
     border: 10px solid black;
 }
+a{
+    font-size: 30px;
+    color: yellow;
+    border: 3px solid;
+}
